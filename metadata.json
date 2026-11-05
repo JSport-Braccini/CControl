@@ -1,0 +1,6 @@
+{
+  "name": "CopaControl QR — Asistencia, Entradas y Bebidas",
+  "description": "Sistema de control de asistencia de jugadores sin duplicidad, ingreso de espectadores y venta de bebidas por código QR.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
